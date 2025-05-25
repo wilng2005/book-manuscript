@@ -1,25 +1,84 @@
-# Book Manuscript Project
+# Book Manuscript Repository
 
-This project is a structured book manuscript, organized for easy writing, editing, and exporting using [Pandoc](https://pandoc.org/). The manuscript is divided into chapters, each as a directory containing markdown files. The project is designed for seamless export to DOCX or PDF formats.
+Welcome! This repository is for collaborative book manuscript projects, organized for easy writing, editing, and exporting using [Pandoc](https://pandoc.org/). Each book is kept in its own directory and follows a clear folder structure for chapters, images, and documentation.
 
-## Project Structure
+## Repository Structure
 
 ```
 book-manuscript/
-├── book/
+├── righteousness-is-a-strategy/
 │   ├── chapter-01/
-│   │   ├── 01-introduction.md
-│   │   └── 02-background.md
-│   ├── chapter-02/
-│   │   ├── 01-main-topic.md
-│   │   └── 02-details.md
-│   └── ...
+│   │   └── 01-introduction.md
+│   ├── images/
+│   │   └── .gitkeep
+│   ├── docs/
+│   │   └── README.md
+│   └── metadata.yaml
 ├── README.md
 └── ...
 ```
 
-- Each `chapter-XX` directory contains logically grouped markdown files.
-- File names are prefixed with numbers to control order during export.
+- Each book has its own folder (e.g., `righteousness-is-a-strategy/`).
+- Chapters are organized in numbered subfolders (e.g., `chapter-01/`).
+- Images for each book go in the `images/` folder.
+- Documentation, plans, and notes for each book go in the `docs/` folder.
+- Metadata for Pandoc export is in `metadata.yaml`.
+
+## How to Add a New Book
+
+1. Create a new folder at the root with your book's name (use dashes, e.g., `my-new-book`).
+2. Inside your book folder, create:
+   - `chapter-01/` (and more as needed)
+   - `images/` (for figures, cover art, etc.)
+   - `docs/` (for plans, ideas, issues, etc.)
+   - `metadata.yaml` (set `title`, `author`, and `date`)
+3. Start your first chapter as `chapter-01/01-introduction.md`.
+
+## Writing Guidelines
+
+- Use standard Markdown syntax.
+- For headings, use `#` for chapter titles and `##`, `###`, etc. for sections and subsections.
+- To insert page breaks (for export), use:
+  ```
+  \newpage
+  ```
+- For images, use relative paths and place image files in the `images/` directory.
+- For references, citations, and footnotes, use Pandoc-compatible markdown.
+
+## Exporting a Book
+
+From inside the book's folder, run:
+
+```sh
+pandoc chapter-*/**/*.md -o manuscript.docx --metadata-file=metadata.yaml
+```
+
+Or for PDF:
+
+```sh
+pandoc chapter-*/**/*.md -o manuscript.pdf --metadata-file=metadata.yaml
+```
+
+- Requires [Pandoc](https://pandoc.org/) and (for PDF) a LaTeX distribution.
+- You can add options like `--toc` for a table of contents, or use a custom template.
+
+## About the `docs/` Folder
+
+Each book has a `docs/` folder for:
+- `plans.md` — Outline your writing plan, chapter goals, and timeline.
+- `ideas.md` — Collect new ideas and inspiration.
+- `issues.md` — Track open questions or problems.
+
+## Collaboration Guidelines
+
+- Use branches or pull requests for major changes.
+- Document your ideas, plans, and issues in the `docs/` folder.
+- Keep chapters and sections in separate files for easy review.
+- Test Pandoc exports early to catch formatting issues.
+
+---
+
+Happy writing! For more details, see the [Pandoc documentation](https://pandoc.org/MANUAL.html).
 
 ## Writing Guidelines
 
