@@ -1,0 +1,22 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore temporary files
+*.tmp
+
+# Ignore exported documents
+manuscript.docx
+manuscript.pdf
