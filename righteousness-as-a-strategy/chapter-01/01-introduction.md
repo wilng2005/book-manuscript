@@ -2,7 +2,7 @@
 
 ## The hunger for integrity in a fractured world
 
-Everywhere we turn, trust is in short supply. Institutions falter, leaders disappoint, and moral lines blur under pressure. In this fractured world, people are craving something steady—something trustworthy. That something is righteousness—not as a lofty ideal, but as a deeply practical foundation.
+Everywhere we turn, trust is in short supply. Institutions falter, leaders disappoint, and moral lines blur under pressure. In this fractured world, people value something stable—something trustworthy. That something is righteousness—not as a lofty ideal, but as a deeply practical foundation.
 
 But let’s be clear: the world has always wrestled with a lack of righteousness.
 
@@ -31,12 +31,12 @@ In business, righteousness builds credibility. People remember leaders who tell 
 
 And in relationships—whether personal or professional—righteousness creates safety. It sets a foundation for long-term connection. It says, “You can count on me to do what’s right, not just what’s easy.”
 
-One striking example of righteousness as strategy is Singapore. In the decades following independence, the nation made a deliberate choice to root its governance in integrity. With strict anti-corruption policies, transparent systems, and accountability at the highest levels, Singapore transformed from a developing port city into one of the world’s most trusted and stable economies. Investors came. Institutions flourished. Citizens began to trust that the system would work—not perfectly, but consistently and fairly.  
+One striking example of righteousness as strategy is Singapore. In the decades following independence, the nation made a deliberate choice to root its governance in integrity. With strict anti-corruption policies implemented at highest levels, Singapore transformed from a developing port city into one of the world’s most trusted and stable economies. Investors came. Institutions flourished. Citizens began to trust that the system would work—not perfectly, but consistently and fairly.  
 It wasn’t just good governance. It was a strategic move built on moral clarity. And it worked.
 
 Righteousness isn’t about being flawless. It’s about being diligent and faithful. It means choosing the harder path of integrity over the shortcut of convenience. And ironically, that harder path often turns out to be the wisest, most durable, and most fruitful one in the long run.
 
-In a world obsessed with efficiency, speed, and results, righteousness slows things down—but in the best possible way. It roots you. Anchors you. And over time, it wins.
+In a world obsessed with public opinion, efficiency, speed, and results, righteousness slows things down—but in the best possible way. It roots you. Anchors you. And over time, it wins.
 
 
 ## The Trap of Self-Righteousness
@@ -55,12 +55,12 @@ Righteousness isn’t about being the hero. It’s about being accountable. It d
 
 ## The Journey Ahead
 
-This book explores righteousness not just as a personal virtue, but as a powerful framework for leadership, influence, and long-term impact. Along the way, we’ll look at what happens when righteousness is present—and what happens when it’s absent. We’ll examine how integrity shapes outcomes in the boardroom, in government, in faith communities, and in everyday life.
+This book explores righteousness not just as a personal virtue, but as a powerful framework for strategy, leadership, influence, and long-term impact. Along the way, we’ll look at what happens when righteousness is present—and what happens when it’s absent. We’ll examine how integrity shapes outcomes in the boardroom, in government, in communities, and in everyday life.
 
 We’ll explore how to stay grounded under pressure, how to navigate moral complexity, and how to lead without compromising your convictions. You’ll encounter leaders who stood firm when it counted—and those who didn’t. Some will inspire you. Others will caution you.
 
 We’ll also dive into the hidden dangers: the pride that can take root in good intentions, the systems that protect the powerful, and the slow erosion of values in the name of results. You’ll be challenged not just to do what’s right, but to do it with humility, accountability, and courage.
 
-And finally, we’ll turn to hope. Because righteousness isn’t just about resisting evil—it’s about building something better. A culture of trust. A legacy of justice. A leadership that lasts.
+And finally, we’ll turn to hope. Because righteousness isn’t just about resisting evil—it’s about building something better. A culture of trust. A legacy of justice. A leadership that lasts. A business that redeems.
 
-This isn’t a call to perfection. It’s a call to alignment—to live and lead in a way that is both good and wise, principled and effective. Righteousness still matters. And your story is part of that bigger picture.
+This isn’t a call to perfection. It’s a call to alignment—to live and lead in a way that is both good and wise, principled and effective. Righteousness still matters. Let's begin.
