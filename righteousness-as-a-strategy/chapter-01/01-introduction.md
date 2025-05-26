@@ -53,6 +53,15 @@ That’s why true righteousness must be paired with deep humility. It requires a
 
 Righteousness isn’t about being the hero. It’s about being accountable. It doesn’t claim moral superiority—it embraces moral responsibility.
 
+#### What Do We Mean by “Righteousness” and “Strategy”?
+
+**Righteousness**, in this book, doesn’t mean moral superiority or religious piety. It means doing what is right—especially when it’s inconvenient, costly, or unpopular. It’s about integrity, fairness, courage, and accountability—qualities that build trust over time. Righteousness isn’t rigid rule-following; it’s about aligning our actions with enduring values, even when no one is watching.
+
+**Strategy** refers to the deliberate pursuit of outcomes through leveraging strategic insight. Strategic insight is a belief about the world—something true, yet often overlooked or underused. The core thesis of this book is that righteousness, often dismissed as a moral ideal, is actually a source of *maximum sustainable leverage*. 
+
+This book is a journey in bringing the two together—at the level of nations, organizations, businesses, families, and individuals—arguing that righteousness isn’t just the right thing to do, but the *smartest* thing to do in the long run. Not just morally sound, but strategically wise.
+
+
 ## The Journey Ahead
 
 This book explores righteousness not just as a personal virtue, but as a powerful framework for strategy, leadership, influence, and long-term impact. Along the way, we’ll look at what happens when righteousness is present—and what happens when it’s absent. We’ll examine how integrity shapes outcomes in the boardroom, in government, in communities, and in everyday life.
