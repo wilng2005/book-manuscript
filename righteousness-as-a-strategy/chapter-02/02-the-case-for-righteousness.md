@@ -4,8 +4,6 @@ In a world driven by short-term wins and competitive pressures, righteousness ca
 
 ## The Strategic Power of Doing What’s Right
 
-What if doing the right thing wasn’t just a virtue, but a competitive advantage?
-
 Paul Polman, former CEO of Unilever, famously shifted the company’s focus toward long-term sustainability and social impact—choosing to forgo quarterly earnings guidance and prioritizing ethical supply chains. While critics initially questioned the strategy, Unilever outperformed peers in the long run, gaining loyalty from conscious consumers and attracting values-aligned talent.
 
 This principle isn’t confined to the private sector. Consider **Norway’s Government Pension Fund Global**, the largest sovereign wealth fund in the world. Built from surplus oil revenues, it could have easily become a source of political excess or corruption. Instead, the Norwegian government established strict rules of transparency, ethical investment, and long-term stewardship.
