@@ -1,6 +1,6 @@
 # Chapter 1: The Case for Righteousness
 
-In a world driven by short-term wins and competitive pressures, righteousness can seem like a quaint ideal—morally admirable but strategically naïve. Yet, history tells a different story. Again and again, doing what is right proves to be not only sustainable, but also smart. This chapter explores the strategic value of righteousness: how it builds trust, strengthens credibility, and protects against collapse when others fall.
+In a world driven by short-term wins and competitive pressures, righteousness can seem admirable but strategically naïve. Yet, history tells a different story. Again and again, doing what is right proves to be not only sustainable, but also smart. This chapter explores the strategic value of righteousness: how it builds trust, strengthens credibility, and protects against collapse when others fall.
 
 ## The Strategic Power of Doing What’s Right
 
