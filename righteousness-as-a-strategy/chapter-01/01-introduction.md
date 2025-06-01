@@ -55,7 +55,7 @@ Righteousness isn’t about being the hero. It’s about being accountable. It d
 
 #### What Do We Mean by “Righteousness” and “Strategy”?
 
-**Righteousness**, in this book, doesn’t mean moral superiority or religious piety. It means doing what is right—especially when it’s inconvenient, costly, or unpopular. It’s about integrity, fairness, courage, and accountability—qualities that build trust over time. Righteousness isn’t rigid rule-following; it’s about aligning our actions with enduring values, even when no one is watching.
+**Righteousness**, in this book, doesn’t mean moral superiority or religious piety. It means doing what is right—especially when it’s inconvenient, costly, or unpopular. It’s about integrity, fairness, courage, humility, and accountability—qualities that build trust over time. Righteousness isn’t rigid rule-following; it’s about aligning our actions with enduring values, even when no one is watching.
 
 **Strategy** refers to the deliberate pursuit of outcomes through leveraging strategic insight. Strategic insight is a belief about the world—something true, yet often overlooked or underused. The core thesis of this book is that righteousness, often dismissed as a moral ideal, is actually a source of *maximum sustainable leverage*. 
 
