@@ -10,27 +10,27 @@
 
 ---
 
-## Chapter 1: The Case for Righteousness as a Strategy
+## Section 1: The Case for Righteousness as a Strategy
 
-### 1. Empirical Foundation: Research Highlights
+### Chapter 1. Empirical Foundation: Research Highlights
 - **Harvard Business Review (2015)**: Companies with a strong sense of purpose and values outperform peers in growth and profitability.
 - **Edelman Trust Barometer**: Trusted companies are more resilient in times of crisis and enjoy higher consumer loyalty.
 - Introduces the measurable advantage of values-driven leadership.
 
-### 2. Theoretical Foundation: Timeless Wisdom
+### Chapter 2. Theoretical Foundation: Timeless Wisdom
 - **Aristotle**: Virtue as habit; character leads to sustained wise decision-making.
 - **Confucius**: Trustworthiness (*xin*) as the foundation of leadership and harmony.
 - **Biblical Wisdom**: Righteousness brings stability and foresight (“The integrity of the upright guides them” – Proverbs 11:3).
 - Demonstrates that righteousness is not new—it’s an enduring, strategic truth.
 
-### 3. Psychological and Organizational Mechanisms
+### Chapter 3. Psychological and Organizational Mechanisms
 - **Francis Fukuyama**: Trust reduces transaction costs and internal friction.
 - **Ethical cultures** attract high-integrity talent and reduce employee turnover.
 - **Customer loyalty** increases when values align with brand behavior.
 - These mechanisms explain *how* righteousness produces tangible business outcomes.
 
 
-### 4. Case Studies: Stories of Strategy and Consequence
+### Chapter 4. Case Studies: Stories of Strategy and Consequence
 
 #### a. Positive Examples
 - **Unilever (Paul Polman)**: Long-term vision, sustainability, and values-led strategy that led to above-market returns and brand loyalty.
@@ -45,61 +45,42 @@
 
 
 ---
+## Section 2: Practicing Righteous Leadership
 
-## Chapter 2: Integrity as Influence
-- Character as capital  
-- Leading without manipulation  
-- How principled leadership builds followership  
-
----
-
-## Chapter 3: Righteousness Under Fire
-- Staying grounded in crisis  
-- Decision-making under moral pressure  
-- Stories of courage and consequence  
-
----
-
-## Chapter 4: The Trap of Arrogance
-- When righteousness becomes superiority  
-- How moral clarity can breed pride  
-- Humility as the essential counterbalance  
-- Practices that keep ego out of leadership  
-
----
-
-## Chapter 5: Discernment, Not Dogma
-- Leading with conviction without being rigid  
-- Wisdom over certainty  
-- Balancing clarity with curiosity  
-
----
-
-## Chapter 6: Justice and Mercy in Systems
-- How values shape culture and policy  
-- Building organizations where people thrive  
-- Structures that reflect both righteousness and grace  
-
----
-
-## Chapter 7: Ethics in the Marketplace
-- Profit vs. principle  
-- When to walk away  
-- Trust as a competitive advantage  
-
----
-
-## Chapter 8: Personal Practices of Righteous Leadership
-- Daily rhythms that align your life and values  
+### Chapter 5: Building from Within
+- Why strategy starts with self  
+- Daily rhythms and personal disciplines  
 - Guarding against burnout, bitterness, and hypocrisy  
-- Building inner strength for outer action  
 
----
+### Chapter 6: Leading with Integrity and Influence
+- Character as capital  
+- Earning trust without control  
+- How principled leadership builds real followership  
 
-## Chapter 9: Legacy and Multiplication
-- Righteousness that outlives you  
-- Mentoring, multiplying, and modeling the way  
-- The quiet power of consistent character  
+### Chapter 7: Moral Clarity in Pressure Moments
+- Staying grounded during crisis  
+- Navigating dilemmas with wisdom, not perfectionism  
+- Stories of courage and costly conviction  
+
+### Chapter 8: Humility and the Righteous Leader
+- When righteousness turns into self-righteousness  
+- Ego, blind spots, and the need for community  
+- Practices that keep humility at the center  
+
+### Chapter 9: Designing for Justice and Mercy
+- Embedding values into policies and culture  
+- How grace and accountability can co-exist  
+- Systemic design that helps people thrive  
+
+### Chapter 10: Ethical Risk-Taking in the Marketplace
+- When profit and principle collide  
+- Case studies of walking away—and why it paid off  
+- Trust as the long game  
+
+### Chapter 11: Multiplying Righteousness
+- Mentoring, modeling, and succession  
+- Leaving more than results—leaving a way of life  
+- Righteousness that scales beyond you  
 
 ---
 
