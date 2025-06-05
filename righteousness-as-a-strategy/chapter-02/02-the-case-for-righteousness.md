@@ -1,4 +1,17 @@
-# Chapter 1: The Case for Righteousness as a Strategy
+# Section 1: The Case for Righteousness as a Strategy
+
+## Chapter 1: The Science of Doing What's Right
+
+There is a growing body of research that shows that perceptions of ethical, trustworthy behavior in leaders  are associated with better performance and outcomes. The evidence suggests that this relationships between doing what's right and doing well is not just correlation, but causation. 
+
+### Empirical Evidence
+
+
+
+
+---
+
+
 
 Once, the idea that doing the right thing could be good for business was seen as a noble—but optional—ideal. It was something to aspire to, not something to build strategy around. But that’s changing. Today, integrity is no longer just a moral virtue—it’s emerging as a source of competitive advantage.
 

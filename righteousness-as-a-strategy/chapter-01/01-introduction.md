@@ -1,27 +1,40 @@
 # Introduction: Why Righteousness Still Matters
 
-## The hunger for integrity in a fractured world
+## The Hunger for Integrity in a Fractured World
 
-Everywhere we turn, trust is in short supply. Institutions falter, leaders disappoint, and moral lines blur under pressure. In this fractured world, people value something stable—something trustworthy. That something is righteousness—not as a lofty ideal, but as a deeply practical foundation.
+At the time this book is being written, trust is in short supply. Institutions falter, leaders disappoint, and moral lines blur under pressure. In this fractured world, people long for something stable—something trustworthy. That something is *righteousness*—not as a lofty ideal, but as a deeply practical foundation.
 
 But let’s be clear: the world has always wrestled with a lack of righteousness.
 
 In biblical times, even Israel’s greatest king wasn’t above reproach. After David’s abuse of power—taking Bathsheba and arranging her husband’s death—it was the prophet Nathan who stood before him and told a parable that pierced his conscience. “You are the man,” Nathan declared, confronting the king with his sin (2 Samuel 12). It was a moment of moral reckoning, not just for David, but for the entire kingdom.
 
-Centuries later, in the Roman Republic—one of history’s most admired civilizations—righteousness again gave way to ambition. Once built on ideals of shared governance and civic virtue, the Republic became a playground for manipulation and betrayal. Powerful elites prioritized personal gain over the public good, using bribery and violence to climb the ranks. As integrity eroded, so did trust in the system—until it gave way to empire. The fall wasn’t just political. It was a collapse of righteousness.
+Centuries later, in the Roman Republic—one of history’s most admired civilizations—righteousness again gave way to ambition. Once built on ideals of shared governance and civic virtue, the Republic became a playground for manipulation and betrayal. Powerful elites prioritized personal gain over the public good, using bribery and violence to climb the ranks. As integrity eroded, so did trust in the system—until it gave way to empire. The fall wasn’t just political; it was a collapse of righteousness.
 
-In the 16th century, the church itself—once seen as the moral compass of society—became the center of controversy. The selling of indulgences turned forgiveness into a commodity, undermining the spiritual core of Christian faith. Martin Luther’s 95 Theses were not just theological objections; they were a moral outcry against systemic corruption. His stand triggered the Protestant Reformation, shaking the religious and political foundations of Europe. When righteousness is replaced with convenience and control, even sacred institutions are not immune.
+In the 16th century, the church itself—once seen as the moral compass of society—became the center of controversy. The selling of indulgences turned forgiveness into a commodity, undermining the spiritual core of Christian faith. Martin Luther’s 95 Theses were not just theological objections; they were a moral outcry against systemic corruption. His stand triggered the Protestant Reformation, shaking the religious and political foundations of Europe. When righteousness is replaced by convenience and control, even sacred institutions are not immune.
 
 In the early 2000s, corporate scandals like Enron and Bernie Madoff showed how the absence of integrity at the top can bring entire systems crashing down.  
 Enron, once one of the largest energy companies in the U.S., collapsed in 2001 after it was revealed that executives had used accounting loopholes and shell entities to hide billions in debt. Thousands of employees lost their jobs and retirement savings overnight, and investors were wiped out. It shook public trust in corporate America and led to sweeping reforms in financial regulation.  
 Bernie Madoff, on the other hand, ran the largest Ponzi scheme in history—defrauding investors of an estimated $65 billion. From celebrities to charities, people believed they were earning stable returns, when in reality, it was a house of cards. When it finally collapsed in 2008, it devastated lives and left many wondering how such deception had gone undetected for so long.
 
-In more recent times, the collapse of Indonesian startup eFishery sent shockwaves through Southeast Asia’s tech ecosystem. Once celebrated as a unicorn for its innovative aquaculture solutions, eFishery was found to have inflated its revenues by nearly $600 million in the first nine months of 2024. The company’s co-founders maintained dual financial records—one for internal use and another, falsified version for investors. This deception misled major backers, including SoftBank and Temasek, and when exposed, led to mass layoffs and a significant erosion of trust across the region’s startup landscape.
+More recently, the collapse of Indonesian startup eFishery sent shockwaves through Southeast Asia’s tech ecosystem. Once celebrated as a unicorn for its innovative aquaculture solutions, eFishery was found to have inflated its revenues by nearly $600 million in the first nine months of 2024. The company’s co-founders maintained dual financial records—one for internal use and another, falsified version for investors. This deception misled major backers, including SoftBank and Temasek. When exposed, it led to mass layoffs and a significant erosion of trust across the region’s startup landscape.
+
+The United States of America—once seen as a bulwark of order and stability—unexpectedly imposed large tariffs on trade, impacting both trade partners and long-standing alliances. This move fractured relationships and undermined trust in the global trade environment.
 
 And today, with rising distrust in governments, tech leaders, and media, we’re no different. We scroll through stories of fraud, hypocrisy, and abuse—not surprised anymore, just weary.
 
-This hunger for integrity isn’t new. It’s a timeless human ache—for leaders, systems, and people who do what’s right, even when it costs them. That’s why righteousness still matters. Perhaps now more than ever.
+This hunger for integrity isn’t new. It’s a timeless human desire for leaders, systems, and people who do what’s right, even when it costs them. That’s why righteousness still matters. Perhaps now more than ever.
 
+## Why Righteousness Often Gets Left Out of Strategy
+
+Perhaps one reason righteousness is not a priority in strategic thinking today is because much of our modern thinking on strategy is borrowed from war.
+
+From *The Art of War* to Clausewitz, and more recently in business books that glorify competitive dominance, war metaphors shape how many leaders think. These frameworks emphasize deception, misdirection, and outmaneuvering opponents—tools that make sense in a finite game where the objective is to win, trust is expendable, and the other side is the enemy.
+
+But most of life doesn’t work that way. In business, in leadership, in nation-building, and in personal growth—we are playing *infinite games*. These are arenas where there are no final victories, no ultimate finish lines, and the same players must keep engaging each other over time. In an infinite game, trust is not expendable—it is essential. Integrity isn’t a liability—it’s your long-term edge.
+
+When we treat every challenge as a battle to be won, we neglect the deeper structures that make sustainable success possible: credibility, trust, and moral alignment. And because war strategy is glorified in pop culture, business school case studies, and startup culture, many leaders are never taught to see integrity as strategic. They’re taught to win.
+
+This book offers a different path—not one that rejects strategy, but one that reclaims it. A strategy built on righteousness isn’t naïve. It’s wiser. It lasts longer. And in the long run, it wins where other strategies burn out.
 
 ## Righteousness as more than moral correctness—it’s strategic
 
@@ -57,7 +70,7 @@ Righteousness isn’t about being the hero. It’s about being accountable. It d
 
 **Righteousness**, in this book, doesn’t mean moral superiority or religious piety. It means doing what is right—especially when it’s inconvenient, costly, or unpopular. It’s about integrity, fairness, courage, humility, and accountability—qualities that build trust over time. Righteousness isn’t rigid rule-following; it’s about aligning our actions with enduring values, even when no one is watching.
 
-**Strategy** refers to the deliberate pursuit of outcomes through leveraging strategic insight. Strategic insight is a belief about the world—something true, yet often overlooked or underused. The core thesis of this book is that righteousness, often dismissed as a moral ideal, is actually a source of *maximum sustainable leverage*. 
+**Strategy** refers to the deliberate pursuit of outcomes through leveraging strategic insight. Strategic insight is a belief about the world—something true, yet often overlooked or underused. The core thesis of this book is that righteousness, often dismissed as a moral ideal, is actually a method of maintaining *maximum sustainable leverage*. 
 
 This book is a journey in bringing the two together—at the level of nations, organizations, businesses, families, and individuals—arguing that righteousness isn’t just the right thing to do, but the *smartest* thing to do in the long run. Not just morally sound, but strategically wise.
 
@@ -66,7 +79,7 @@ This book is a journey in bringing the two together—at the level of nations, o
 
 This book explores righteousness not just as a personal virtue, but as a powerful framework for strategy, leadership, influence, and long-term impact. Along the way, we’ll look at what happens when righteousness is present—and what happens when it’s absent. We’ll examine how integrity shapes outcomes in the boardroom, in government, in communities, and in everyday life.
 
-We’ll explore how to stay grounded under pressure, how to navigate moral complexity, and how to lead without compromising your convictions. You’ll encounter leaders who stood firm when it counted—and those who didn’t. Some will inspire you. Others will caution you.
+We’ll also explore the foundations of effective strategy, how to stay grounded under pressure, how to navigate moral complexity, and how to lead without compromising your convictions. You’ll encounter leaders who stood firm when it counted—and those who didn’t. Some will inspire you. Others will caution you.
 
 We’ll also dive into the hidden dangers: the pride that can take root in good intentions, the systems that protect the powerful, and the slow erosion of values in the name of results. You’ll be challenged not just to do what’s right, but to do it with humility, accountability, and courage.
 
