@@ -2,6 +2,7 @@
 
 ## Chapter 1: The Science of Doing What's Right
 
+Doing what's right isn't just a
 There is a growing body of research that shows that perceptions of ethical, trustworthy behavior in leaders  are associated with better performance and outcomes. The evidence suggests that this relationships between doing what's right and doing well is not just correlation, but causation. 
 
 ### Empirical Evidence

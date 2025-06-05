@@ -1,10 +1,6 @@
 # Introduction: Why Righteousness Still Matters
 
-## The Hunger for Integrity in a Fractured World
-
-At the time this book is being written, trust is in short supply. Institutions falter, leaders disappoint, and moral lines blur under pressure. In this fractured world, people long for something stable—something trustworthy. That something is *righteousness*—not as a lofty ideal, but as a deeply practical foundation.
-
-But let’s be clear: the world has always wrestled with a lack of righteousness.
+Let’s be clear: the world has always wrestled with a lack of righteousness.
 
 In biblical times, even Israel’s greatest king wasn’t above reproach. After David’s abuse of power—taking Bathsheba and arranging her husband’s death—it was the prophet Nathan who stood before him and told a parable that pierced his conscience. “You are the man,” Nathan declared, confronting the king with his sin (2 Samuel 12). It was a moment of moral reckoning, not just for David, but for the entire kingdom.
 
@@ -16,19 +12,17 @@ In the early 2000s, corporate scandals like Enron and Bernie Madoff showed how t
 Enron, once one of the largest energy companies in the U.S., collapsed in 2001 after it was revealed that executives had used accounting loopholes and shell entities to hide billions in debt. Thousands of employees lost their jobs and retirement savings overnight, and investors were wiped out. It shook public trust in corporate America and led to sweeping reforms in financial regulation.  
 Bernie Madoff, on the other hand, ran the largest Ponzi scheme in history—defrauding investors of an estimated $65 billion. From celebrities to charities, people believed they were earning stable returns, when in reality, it was a house of cards. When it finally collapsed in 2008, it devastated lives and left many wondering how such deception had gone undetected for so long.
 
-More recently, the collapse of Indonesian startup eFishery sent shockwaves through Southeast Asia’s tech ecosystem. Once celebrated as a unicorn for its innovative aquaculture solutions, eFishery was found to have inflated its revenues by nearly $600 million in the first nine months of 2024. The company’s co-founders maintained dual financial records—one for internal use and another, falsified version for investors. This deception misled major backers, including SoftBank and Temasek. When exposed, it led to mass layoffs and a significant erosion of trust across the region’s startup landscape.
+More recently, the collapse of Indonesian startup eFishery sent shockwaves through Southeast Asia’s startup ecosystem. Once celebrated as a unicorn for its innovative aquaculture solutions, eFishery was found to have inflated its revenues by nearly $600 million in the first nine months of 2024. The company’s co-founders maintained dual financial records—one for internal use and another, falsified version for investors. This deception misled major backers, including SoftBank and Temasek. When exposed, it led to mass layoffs and a significant erosion of trust across the region’s startup landscape.
 
-The United States of America—once seen as a bulwark of order and stability—unexpectedly imposed large tariffs on trade, impacting both trade partners and long-standing alliances. This move fractured relationships and undermined trust in the global trade environment.
+The United States of America—once seen as a bulwark of order and stability—unexpectedly imposed large tariffs on trade, negatively impacting both trade partners and long-standing alliances. This move fractured relationships and undermined trust in the global trade environment.
 
-And today, with rising distrust in governments, tech leaders, and media, we’re no different. We scroll through stories of fraud, hypocrisy, and abuse—not surprised anymore, just weary.
-
-This hunger for integrity isn’t new. It’s a timeless human desire for leaders, systems, and people who do what’s right, even when it costs them. That’s why righteousness still matters. Perhaps now more than ever.
+At the time this book is being written, trust and stability in the world today feels like it is in short supply. Institutions falter, leaders disappoint, and moral lines blur under pressure. In this fractured world, people long for something stable—something trustworthy. That something is *righteousness*—not as a lofty ideal, but as a deeply practical foundation.
 
 ## Why Righteousness Often Gets Left Out of Strategy
 
 Perhaps one reason righteousness is not a priority in strategic thinking today is because much of our modern thinking on strategy is borrowed from war.
 
-From *The Art of War* to Clausewitz, and more recently in business books that glorify competitive dominance, war metaphors shape how many leaders think. These frameworks emphasize deception, misdirection, and outmaneuvering opponents—tools that make sense in a finite game where the objective is to win, trust is expendable, and the other side is the enemy.
+From *The Art of War* to Clausewitz, and in business books that glorify competitive dominance, war metaphors shape how many leaders think. They emphasize deception, misdirection, and outmaneuvering opponents—tools that make sense in a finite game where the objective is to win, trust is expendable, and the other side is the enemy.
 
 But most of life doesn’t work that way. In business, in leadership, in nation-building, and in personal growth—we are playing *infinite games*. These are arenas where there are no final victories, no ultimate finish lines, and the same players must keep engaging each other over time. In an infinite game, trust is not expendable—it is essential. Integrity isn’t a liability—it’s your long-term edge.
 
