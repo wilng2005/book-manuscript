@@ -16,7 +16,7 @@ More recently, the collapse of Indonesian startup eFishery sent shockwaves throu
 
 The United States of America—once seen as a bulwark of order and stability—unexpectedly imposed large tariffs on trade, negatively impacting both trade partners and long-standing alliances. This move fractured relationships and undermined trust in the global trade environment.
 
-At the time this book is being written, trust and stability in the world today feels like it is in short supply. Institutions falter, leaders disappoint, and moral lines blur under pressure. In this fractured world, people long for something stable—something trustworthy. That something is *righteousness*—not as a lofty ideal, but as a deeply practical foundation.
+At the time this book is being written, trust and stability in the world today feel like they are in short supply. Institutions falter, leaders disappoint, and moral lines blur under pressure. In this fractured world, people long for something stable—something trustworthy. That something is *righteousness*—not as a lofty ideal, but as a deeply practical foundation.
 
 ## Why Righteousness Often Gets Left Out of Strategy
 
@@ -71,12 +71,10 @@ This book is a journey in bringing the two together—at the level of nations, o
 
 ## The Journey Ahead
 
-This book explores righteousness not just as a personal virtue, but as a powerful framework for strategy, leadership, influence, and long-term impact. Along the way, we’ll look at what happens when righteousness is present—and what happens when it’s absent. We’ll examine how integrity shapes outcomes in the boardroom, in government, in communities, and in everyday life.
+This book explores righteousness not just as a personal virtue, but as a validated framework for strategy, leadership, influence, and long-term impact. Along the way, we’ll look at what happens when righteousness is present—and what happens when it’s absent. We’ll examine how integrity shapes outcomes in the boardroom, in government, in communities, and in everyday life.
 
-We’ll also explore the foundations of effective strategy, how to stay grounded under pressure, how to navigate moral complexity, and how to lead without compromising your convictions. You’ll encounter leaders who stood firm when it counted—and those who didn’t. Some will inspire you. Others will caution you.
+We’ll also explore the seven foundations of effective strategy which serve as a compass to navigate uncertainties. You’ll encounter stories of how leaders and individuals stood firm when it counted—and those who didn’t. Some will inspire you. Others will caution you.
 
-We’ll also dive into the hidden dangers: the pride that can take root in good intentions, the systems that protect the powerful, and the slow erosion of values in the name of results. You’ll be challenged not just to do what’s right, but to do it with humility, accountability, and courage.
-
-And finally, we’ll turn to hope. Because righteousness isn’t just about resisting evil—it’s about building something better. A culture of trust. A legacy of justice. A leadership that lasts. A business that redeems.
+We’ll also explore the hidden dangers: the pride that can take root in good intentions, the systems that protect the powerful, and the slow erosion of values in the name of results. You’ll be challenged not just to do what’s right, but to do it with humility, accountability, and courage.
 
 This isn’t a call to perfection. It’s a call to alignment—to live and lead in a way that is both good and wise, principled and effective. Righteousness still matters. Let's begin.
