@@ -9,7 +9,29 @@ It’s one thing to claim that doing the right thing is good for business. It’
 
 ### High-Character Leadership Drives Results
 
-In a landmark study published by the **MIT Sloan Management Review**, researchers found that companies led by high-character CEOs—rated by employees as consistently compassionate, responsible, forgiving, and possessing strong integrity—outperformed their peers by a wide margin. These organizations earned nearly **five times higher return on assets** than companies with low-character leadership (Crossan et al., 2022).
+In a groundbreaking study published by the *MIT Sloan Management Review* in 2022, researchers Mary Crossan, William Furlong, and Robert D. Austin provided some of the most compelling data to date linking character in leadership to superior business performance. The results were both staggering and clarifying: **companies led by high-character CEOs delivered nearly five times greater return on assets** (ROA) than those led by CEOs rated low in character.
+
+But what exactly constitutes a "high-character" CEO? The study operationalized character using a rigorously developed framework, shaped through years of research and tested across more than 2,000 executives. High-character leaders were those whom employees consistently rated as compassionate, responsible, forgiving, and unwavering in integrity. These leaders weren’t simply “nice”—they embodied a full spectrum of moral and psychological strength.
+
+At the center of the framework was **judgment**—the integrating force that coordinates ten interrelated dimensions of character, including courage, temperance, humility, drive, humanity, justice, accountability, collaboration, integrity, and transcendence. These are not abstract virtues but real-world competencies that govern how leaders behave in the thousands of "micro-moments" that make up a day: how they give feedback, respond to failure, allocate resources, or even handle interruptions.
+
+The authors argue that **judgment is where strategy meets character**. And when judgment is compromised—when a leader leans into drive without temperance, or courage without humility—the results are predictably disastrous. They point to well-known failures like the 2008 financial crisis, the Volkswagen emissions scandal, and the Boeing 737 Max tragedy as cautionary tales. In each, technical competence was present, but character was absent or insufficient.
+
+What’s revolutionary about this research is not just its moral clarity, but its **measurability and application**. Character, the study insists, is not a fixed trait or a personal mystery. It is **developable, observable, and trainable**. Like a muscle, it can grow—or atrophy. The authors present a five-phase developmental model that organizations can adopt:
+
+1. **Discover** – Building awareness of one’s strengths and character gaps.  
+2. **Activate** – Using tools, rituals, and reminders to prime character awareness in daily life.  
+3. **Strengthen** – Practicing virtues intentionally until they become habits.  
+4. **Connect** – Learning to harmonize virtues that sometimes feel in tension (e.g., courage and humility).  
+5. **Sustain** – Maintaining one’s character commitments under pressure, stress, or fatigue.
+
+Many organizations are already taking notice. The **Canada Revenue Agency**, for example, has adopted character-based interviews as part of its leadership hiring practices. **TD Bank** has invested in company-wide workshops exploring specific character dimensions, helping employees at all levels to integrate these virtues into their daily interactions and decisions.
+
+The strategic implications are clear: **Character is not soft. It is structural.** It determines how a leader exercises power, builds trust, sustains culture, and navigates ambiguity. In volatile environments where technical solutions are often inadequate, it is the moral foundation of leadership that often determines success or failure.
+
+> “When leaders consistently demonstrate strong character, they don’t just avoid ethical failures—they make better decisions, build more resilient teams, and deliver better results.”  
+> — Crossan, Furlong, & Austin, *MIT Sloan Management Review*, 2022
+
 
 Another vivid example comes from the **Cornell School of Hotel Administration**, where a team tracked dozens of hotel branches to explore whether managers’ behavioral integrity—the alignment between what they say and what they do—mattered. It did. A mere 0.125-point increase in perceived integrity on a five-point scale predicted a **2.5% rise in revenue per hotel**, translating into hundreds of thousands of dollars in profit annually (Simons & McLean Parks, 2000). What’s more, these gains weren’t driven by charisma or tactics—they were mediated by increased employee commitment and better guest experiences. Integrity paid.
 
