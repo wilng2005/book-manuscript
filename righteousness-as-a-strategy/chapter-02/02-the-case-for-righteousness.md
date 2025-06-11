@@ -2,7 +2,7 @@
 
 ## Chapter 1: Empirical Foundation: Research Highlights
 
-Doing what's right isn't just a moral ideal—it's a strategic imperative provides a long-run advantage.
+Doing what's right isn't just a moral ideal—it's a strategic imperative that reaps a long-run advantage.
 
 A growing body of research that shows that righteous behaviors of leaders and companies are associated with better performance and outcomes. Across sectors and studies, character-driven leadership and values-based organizational cultures are consistently associated with superior outcomes: financially, operationally, and culturally. And the evidence goes beyond surface-level correlation. It points toward causation.
 
