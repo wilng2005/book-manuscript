@@ -17,7 +17,8 @@
 - **Edelman Trust Barometer**: Trusted companies are more resilient in times of crisis and enjoy higher consumer loyalty.
 - Introduces the measurable advantage of values-driven leadership.
 
-### Chapter 2. Theoretical Foundation: Timeless Wisdom
+### Chapter 2. Philosophical and Religious Foundation: Timeless Wisdom
+- **Cultural Foundations**: About how chinese businessmen view righteousness as a strategic imperative, building up reputation and trust.
 - **Aristotle**: Virtue as habit; character leads to sustained wise decision-making.
 - **Confucius**: Trustworthiness (*xin*) as the foundation of leadership and harmony.
 - **Biblical Wisdom**: Righteousness brings stability and foresight (“The integrity of the upright guides them” – Proverbs 11:3).
