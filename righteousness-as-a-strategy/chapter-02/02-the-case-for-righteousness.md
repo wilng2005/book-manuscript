@@ -69,11 +69,18 @@ In other words, **ethical leaders inspire loyalty not by demanding it—but by e
 
 By modeling fairness, honesty, and moral clarity, ethical leaders act as both moral persons and moral managers. They don’t just *do* the right thing; they create systems that reward integrity and discourage wrongdoing. These findings reinforce the idea that ethical leadership isn't soft or sentimental—it’s *strategic*. It
 
-
 ### Virtue Strengthens Culture—and Culture Drives Performance
 
+Servant leadership—where leaders genuinely prioritize the needs and development of their teams—has proven to be more than a feel-good ideal. In a landmark meta-analysis of 130 independent studies, Lee et al. (2020) rigorously examined the impact of servant leadership across industries, cultures, and job functions.
 
-Similarly, servant leadership—where leaders prioritize the needs of their teams—has proven to be more than a feel-good ideal. In a comprehensive meta-analysis of over 130 studies, Lee et al. (2020) showed that servant leadership was **positively associated with employee performance, engagement, and innovation**, and uniquely effective at fostering trust and fairness across an organization.
+The findings were compelling: servant leadership was **positively associated with stronger employee performance, higher creativity, and more frequent organizational citizenship behaviors (OCBs)**—those extra-mile actions that strengthen team cohesion and morale. These benefits were seen not only at the individual level, but at the team level as well.
+
+What makes this study significant is its scale and depth. It went beyond surface-level comparisons to test whether servant leadership adds value beyond other well-known leadership styles like transformational, ethical, and authentic leadership. It did. In fact, servant leadership showed **incremental predictive validity**—meaning it explained additional, unique benefits even when those other styles were taken into account.
+
+Crucially, the researchers also explored *why* servant leadership works. They found that its positive effects are partially explained by the trust it builds, the fairness it fosters (procedural justice), and the strength of leader-follower relationships (LMX). These aren’t fluffy concepts—they’re the very mechanisms that shape culture and drive performance from the inside out.
+
+However, it's important to note that the study’s conclusions are based on **correlational data**. Most of the studies included were cross-sectional, so while the associations are robust, they do not prove direct causation. Still, the consistency of the findings across so many settings suggests a meaningful and reliable pattern: when leaders remain humble and prioritize the needs of those they serve, performance follows.
+
 
 Humble leadership, too—a style grounded in openness, teachability, and appreciation for others—has received growing academic interest. As summarized by Owens and Hekman (2012) and further validated in over 200 studies since, **humility in leadership consistently predicts stronger team performance, greater learning, and even reduced misconduct**.
 
