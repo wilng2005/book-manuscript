@@ -1,3 +1,7 @@
+> “But seek first his kingdom and his righteousness, and all these things will be given to you as well.”
+>
+> — Matthew 6:33 (NIV)
+
 # Introduction: Why Righteousness Still Matters
 
 Let’s be clear: the world has always wrestled with a lack of righteousness.
