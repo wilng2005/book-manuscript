@@ -66,9 +66,11 @@ This is why righteousness must always be joined with humility. It begins with th
 
 #### What Do We Mean by “Righteousness” and “Strategy”?
 
-**Righteousness**, in this book, doesn’t mean moral superiority or religious piety. It means doing what is right—especially when it’s inconvenient, costly, or unpopular. It’s about integrity, fairness, courage, humility, and accountability—qualities that build trust over time. Righteousness isn’t rigid rule-following; it’s about aligning our actions with enduring values, embracing moral responsibility, even when no one is watching.
+**Righteousness**, in this book, is not about moral superiority or religious piety. Instead, it means consistently doing what is right—even when it is inconvenient, costly, or unpopular. 
 
-**Strategy** refers to the deliberate pursuit of outcomes through leveraging strategic insight. Strategic insight is a belief about the world—something true, yet often overlooked or underused. The core thesis of this book is that righteousness, often dismissed as a moral ideal, is actually a method of maintaining *maximum sustainable leverage*. 
+It is not about blindly following rules, but about aligning your actions with enduring values and embracing moral responsibility—even when no one is watching. In business, righteousness means acting in ways that are worthy of trust, even when such actions are not easily verified. It involves individuals and decision-makers embodying high-character attributes like courage, temperance, humility, drive, humanity, justice, accountability, collaboration, integrity, and transcendence. Ultimately, it means prioritizing these qualities and making choices that serve the interests of others and the greater good, rather than personal gain.
+
+**Strategy** is the deliberate pursuit of meaningful outcomes through a realistic and accurate understanding of the context. It involves leveraging strategic insights—beliefs about the world that are true, yet often overlooked or underutilized. The core thesis of this book is that righteousness—often dismissed as merely a moral ideal—is, in fact, a method for achieving maximum sustainable leverage in any endeavor.
 
 This book is a journey in bringing the two together—at the level of nations, organizations, businesses, families, and individuals—arguing that righteousness isn’t just the right thing to do, but the *smartest* thing to do in the long run. Not just morally sound, but strategically wise.
 
